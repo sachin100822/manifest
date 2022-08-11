@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/sachin100822/repo_trial.git" name="origin"/>
+  <default remote="origin" sync-j="4" revision="main"/>
+  <project name="folder1" path="folder2" />
+  <project name="folder2" path="folder2" />
+</manifest>
